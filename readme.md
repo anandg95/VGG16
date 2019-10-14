@@ -1,4 +1,4 @@
-VGG-16 implementation using TF Estimator API
+# VGG-16 implementation using TF Estimator API
 
 Aims
 1. Training - Design a runnable training pipeline. Not planning to run at all (dont think I have the bandwidth).
